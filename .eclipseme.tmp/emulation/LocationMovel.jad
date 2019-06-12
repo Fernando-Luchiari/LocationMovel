@@ -1,0 +1,8 @@
+MIDlet-1: Location Movel, ,RecuperaCoordenadas
+MIDlet-Jar-Size: 12648
+MIDlet-Jar-URL: LocationMovel.jar
+MIDlet-Name: LocationMovel Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.13
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
